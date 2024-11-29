@@ -27,7 +27,7 @@ seguem abaixo.
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Leonardo AI
-- Edição e montagem via Descript.
+- Edição e montagem via Descript
 
 
 ## 👨‍💻 Expert
