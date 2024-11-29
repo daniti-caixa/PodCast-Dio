@@ -9,25 +9,25 @@
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
 
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um Podcast com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="Ebook - Scrum Master.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="PostCad_Automatizao_Processos_com_IA_na_Industria.mp3" title="View PDF now"> 📕Clique aqui para ouvir</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [LeonardoAI](https://leonardo.ai/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Descript](https://www.descript.com/)
 
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Leonardo AI
+- Edição e montagem via Descript.
 
 
 ## 👨‍💻 Expert
