@@ -1,10 +1,10 @@
-# PodCast-Dio
+# Projeto Podcast Gerado por I.A.s
 
 
 
 <p align="center">
 <img 
-    src="capa.jpg"
+    src="IA_Industria.jpg"
     width="400"  
 />
 </p>
